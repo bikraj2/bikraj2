@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e4752t0m8i9ytitona42wmasx9rq1a4hbqckvrwd4n4&rid=200.webp&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikraj2&label=Profile%20views&color=0e75b6&style=flat" alt="bikraj2" /> </p>
 
-- 🌱 I’m currently learning **React, GraphQL, NextJs,Redux,Redis**
+- 🌱 I’m currently learning **Flutters**
 
 - 💬 Ask me about **Node , Express, React ,Flutter.**
 
