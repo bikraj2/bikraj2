@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutters**
 
-- 💬 Ask me about **Node , Express, React ,Flutter.**
+- 💬 Ask me about **Node , Express, React ,Flutter,Ts,Next,Ethereum.**
 
 - 📫 How to reach me **bikrajshrestha2@gmail.com**
 
