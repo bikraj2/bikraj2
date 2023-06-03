@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bikraj Shrestha</h1>
 <h3 align="center">I am experienced with building web applications and mobile applications.I am currently in my journey of exploring Blockchain.</h3>
-
+<img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e4752t0m8i9ytitona42wmasx9rq1a4hbqckvrwd4n4&rid=200.webp&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikraj2&label=Profile%20views&color=0e75b6&style=flat" alt="bikraj2" /> </p>
 
 <p align="left"> <a href="https://twitter.com/xtha_bikraj" target="blank"><img src="https://img.shields.io/twitter/follow/xtha_bikraj?logo=twitter&style=for-the-badge" alt="xtha_bikraj" /></a> </p>
