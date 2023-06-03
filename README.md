@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xtha_bikraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xtha_bikraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bikraj-shrestha-75950a200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bikraj-shrestha-75950a200/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bikraj-shrestha-75950a200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bikraj-shrestha-75950a200/" height="30" width="40" /></a>
 <a href="https://instagram.com/bikrajstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikrajstha" height="30" width="40" /></a>
 <a href="https://hashnode.com/@bikraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bikraj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bikraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bikraj" height="30" width="40" /></a>
