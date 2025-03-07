@@ -25,12 +25,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikraj2&show_icons=true&locale=en" alt="bikraj2" /></p>
 
-### 📊 GitHub Activity Graph
-# <a href="https://github.com/bikraj2">
-  # <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikraj2&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-# </a>
-<a href="https://github.com/bikraj2">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikraj2&theme=github_dark" />
-</a>
 
+### 📊 GitHub Profile Summary
+<a href="https://github.com/bikraj2">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikraj2&theme=github_dark" />
+</a>
 
