@@ -24,29 +24,9 @@
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikraj2&show_icons=true&locale=en" alt="bikraj2" /></p>
-
-
-### 📊 GitHub Profile Summary
+### 📊 Contribution Graph
 <a href="https://github.com/bikraj2">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikraj2&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikraj2&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </a>
 
-### 🚀 GitHub Stats Quadrants
-<a href="https://github.com/bikraj2">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikraj2&theme=github_dark" />
-</a>
 
-### 🔥 Commit Streak Quadrant
-<a href="https://github.com/bikraj2">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikraj2&theme=github_dark&utcOffset=8" />
-</a>
-
-### 📈 Most Used Languages
-<a href="https://github.com/bikraj2">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikraj2&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikraj2&theme=github_dark" />
-</a>
-### 📊 Productivity Graph
-<a href="https://github.com/bikraj2">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikraj2&theme=github_dark&utcOffset=8" />
-</a>
