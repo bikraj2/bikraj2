@@ -46,4 +46,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikraj2&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikraj2&theme=github_dark" />
 </a>
-
+### 📊 Productivity Graph
+<a href="https://github.com/bikraj2">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikraj2&theme=github_dark&utcOffset=8" />
+</a>
