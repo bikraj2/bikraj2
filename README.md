@@ -24,9 +24,6 @@
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikraj2&show_icons=true&locale=en" alt="bikraj2" /></p>
-### 📊 Contribution Graph
-<a href="https://github.com/bikraj2">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikraj2&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</a>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Contribution Graph" />
