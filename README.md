@@ -25,4 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikraj2&show_icons=true&locale=en" alt="bikraj2" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikraj2&" alt="bikraj2" /></p>
 
